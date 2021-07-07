@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Image Upload (prototype)
+
+Simple React application for handling image upload to AWS S3 Bucket.
+
+## Note
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
