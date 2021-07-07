@@ -11,4 +11,6 @@ img.preview {
   border: solid 5px purple;
   padding: 10px;
   margin-top: 1em;
+  max-height: 50vh;
+  width: auto;
 }
